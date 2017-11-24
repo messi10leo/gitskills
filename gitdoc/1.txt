@@ -1,2 +1,2 @@
 clone
-push dev-test
+push test-test

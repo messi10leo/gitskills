@@ -1,2 +1,2 @@
 clone
-push master
+push master clone
